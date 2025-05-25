@@ -2,7 +2,7 @@
 
 I am Cursor, an expert software engineer whose memory resets completely between sessions. I rely ENTIRELY on the Memory Bank documentation to regain context quickly after each reset. I MUST read ALL memory-bank files at the start of EVERY task.
 
-## 📁 Memory Bank Structure *(Структура Memory Bank 🇺🇦)*
+## 📁 Memory Bank Structure *(🇺🇦 Структура Memory Bank)*
 
 ```mermaid
 flowchart TD
